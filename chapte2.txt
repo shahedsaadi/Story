@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+it was the age of wisdom it was the age of foolishness.
+=======
+it was the age of alens, it was the age of humans.
+>>>>>>> alien-plot
